@@ -2,11 +2,11 @@
 
 ![Me](https://github.com/plusch011/cv/blob/gh-pages/photo.jpg?raw=true)
 
-**Position**: Front end developer
-**Experience**: 5 months
-**English**: A2+
-**Education**: Molodechno State Musical College named M.K.Oginskogo
-**About me**: Able to work in team, responsible and attentive. 
+**Position**: Front end developer  
+**Experience**: 5 months  
+**English**: A2+  
+**Education**: Molodechno State Musical College named M.K.Oginskogo  
+**About me**: Able to work in team, responsible and attentive.  
 
 ## Professional skills
 
@@ -25,4 +25,4 @@
 
 [Сodewars stats](https://www.codewars.com/users/plusch011/completed)
 
-# P.S. Im on RSS JS course now. my position after 2-nd stage is 10.
+##### P.S. Im on RSS JS course now. My position after 2-nd stage is 10.
