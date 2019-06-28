@@ -1,3 +1,3 @@
 # Vladislav Pauliushchyk
 
-[logo]: ./photo.jpg "Me"
+[logo]: https://github.com/plusch011/cv/blob/gh-pages/photo.jpg?raw=true "Me"
