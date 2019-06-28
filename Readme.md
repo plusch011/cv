@@ -25,7 +25,7 @@
 
 [Сodewars stats](https://www.codewars.com/users/plusch011/completed)
 
-** Sudoku solver **  
+**Sudoku solver**  
 
 ```
 function solveSudoku(sudoku, col = 0, row = 0, impsNum = []) {
