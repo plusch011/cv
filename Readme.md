@@ -6,7 +6,7 @@
 **Experience**: 5 months  
 **English**: A2+  
 **Education**: Molodechno State Musical College named M.K.Oginskogo  
-**About me**: Able to work in team, responsible and attentive.  
+**About me**: Able to work in team, responsible and attentive. I study music and art history. Love to sing, compose, play piano. Cheerful and sociable.  
 
 ## Professional skills
 
