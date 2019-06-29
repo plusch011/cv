@@ -19,7 +19,7 @@
 
 ## Projects
 
-[Piskel clone(training project)](https://plusch011.github.io/TrainPiskel/)
+[Piskel clone(training project)](https://plusch011.github.io/piskel-clone/)
 
 ## Code examples
 
