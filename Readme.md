@@ -6,7 +6,7 @@
 **Experience**: 5 months  
 **English**: A2+ - B1
 **Education**: Molodchno State Musical College named M.K.Oginskogo(Opera singing)  
-Belarusian State University of Informatics and Radioelectronics(Faculto of Information Technologies and Control 2.5 years)
+		Belarusian State University of Informatics and Radioelectronics(Faculto of Information Technologies and Control 2.5 years)  
 **About me**: Able to work in team, responsible and attentive. I study music and art history. Love to sing, compose, play piano. Cheerful and sociable.  
 
 ## Professional skills
